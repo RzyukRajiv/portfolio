@@ -4,7 +4,7 @@ export default function Testimonial() {
   const test = [
     {
       id: 1,
-      name: "Arul Raj",
+      name: "Raji",
       title: "Asst Manager From TSC",
       img: "https://www.pngitem.com/pimgs/m/4-42408_vector-art-design-men-fashion-vector-art-illustration.png",
       icon: "https://mir-s3-cdn-cf.behance.net/project_modules/disp/4a132f137507271.620c908934b69.png",
